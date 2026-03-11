@@ -65,25 +65,25 @@ export default function ServicesPage() {
               id: 1,
               tag: "Strategy",              title: "Digital Strategy & Consulting",              subtitle: "Strategic Planning for Growth",              description:
                 "We develop comprehensive digital strategies that align with your business goals, analyzing market trends and competitor landscapes to create actionable roadmaps for sustainable success and measurable growth.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-strategy-planning-visualization--1773218774189-389e6748.png",              imageAlt: "Digital Strategy Planning"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-strategy-planning-visualization--1773218774189-389e6748.png?_wi=2",              imageAlt: "Digital Strategy Planning"
             },
             {
               id: 2,
               tag: "Design",              title: "UI/UX Design & User Research",              subtitle: "User-Centric Design Excellence",              description:
                 "Our design team creates stunning, intuitive interfaces that engage users and drive conversions. From wireframes to high-fidelity prototypes, we craft digital experiences that delight and perform, backed by user research and testing.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/ui-ux-design-process-showing-design-tool-1773218772590-0902808a.png",              imageAlt: "UI/UX Design Process"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/ui-ux-design-process-showing-design-tool-1773218772590-0902808a.png?_wi=2",              imageAlt: "UI/UX Design Process"
             },
             {
               id: 3,
               tag: "Development",              title: "Web & App Development",              subtitle: "Robust & Scalable Solutions",              description:
                 "We build fast, secure, and scalable web applications using cutting-edge technologies. Our developers ensure seamless performance, accessibility, and optimal user experience across all devices and platforms.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/web-development-workspace-showing-code-e-1773218772673-641d907f.png",              imageAlt: "Web Development Stack"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/web-development-workspace-showing-code-e-1773218772673-641d907f.png?_wi=2",              imageAlt: "Web Development Stack"
             },
             {
               id: 4,
               tag: "Marketing",              title: "Digital Marketing & Growth",              subtitle: "Data-Driven Growth Campaigns",              description:
                 "From SEO and content marketing to social media and paid advertising, we execute integrated campaigns that drive qualified traffic, engagement, and measurable ROI for your business.",              imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-marketing-analytics-dashboard-wi-1773218773754-a2192abe.png",              imageAlt: "Digital Marketing Analytics"
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-marketing-analytics-dashboard-wi-1773218773754-a2192abe.png?_wi=2",              imageAlt: "Digital Marketing Analytics"
             },
           ]}
           buttons={[{ text: "Schedule a Consultation", href: "#contact" }]}
