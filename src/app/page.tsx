@@ -86,7 +86,7 @@ export default function HomePage() {
           description="Founded in 2018"
           subdescription="Trusted by 200+ Global Brands"
           icon={Zap}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/vibrant-digital-agency-team-culture-phot-1773218772539-6c717fa4.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/vibrant-digital-agency-team-culture-phot-1773218772539-6c717fa4.png?_wi=1"
           imageAlt="Proof Digital Agency Culture"
           mediaAnimation="blur-reveal"
           useInvertedBackground={true}
@@ -111,7 +111,7 @@ export default function HomePage() {
               description:
                 "We develop comprehensive digital strategies that align with your business goals, analyzing market trends and competitor landscapes to create actionable roadmaps for success.",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-strategy-planning-visualization--1773218774189-389e6748.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-strategy-planning-visualization--1773218774189-389e6748.png?_wi=1",
               imageAlt: "Digital Strategy Planning",
             },
             {
@@ -122,7 +122,7 @@ export default function HomePage() {
               description:
                 "Our design team creates stunning, intuitive interfaces that engage users and drive conversions. From wireframes to high-fidelity prototypes, we craft digital experiences that delight.",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/ui-ux-design-process-showing-design-tool-1773218772590-0902808a.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/ui-ux-design-process-showing-design-tool-1773218772590-0902808a.png?_wi=1",
               imageAlt: "UI/UX Design Process",
             },
             {
@@ -133,7 +133,7 @@ export default function HomePage() {
               description:
                 "We build fast, secure, and scalable web applications using cutting-edge technologies. Our developers ensure seamless performance, accessibility, and optimal user experience.",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/web-development-workspace-showing-code-e-1773218772673-641d907f.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/web-development-workspace-showing-code-e-1773218772673-641d907f.png?_wi=1",
               imageAlt: "Web Development Stack",
             },
             {
@@ -144,7 +144,7 @@ export default function HomePage() {
               description:
                 "From SEO and content marketing to social media and paid advertising, we execute integrated campaigns that drive qualified traffic, engagement, and measurable ROI.",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-marketing-analytics-dashboard-wi-1773218773754-a2192abe.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/digital-marketing-analytics-dashboard-wi-1773218773754-a2192abe.png?_wi=1",
               imageAlt: "Digital Marketing Analytics",
             },
           ]}
@@ -171,7 +171,7 @@ export default function HomePage() {
               name: "E-Commerce Platform Redesign",
               price: "50K+",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/modern-e-commerce-website-interface-show-1773218773764-658d08a1.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/modern-e-commerce-website-interface-show-1773218773764-658d08a1.png?_wi=1",
               imageAlt: "E-Commerce Platform",
             },
             {
@@ -179,7 +179,7 @@ export default function HomePage() {
               name: "SaaS Dashboard Development",
               price: "75K+",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/professional-saas-application-dashboard--1773218775489-791cb8d4.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/professional-saas-application-dashboard--1773218775489-791cb8d4.png?_wi=1",
               imageAlt: "SaaS Dashboard",
             },
             {
@@ -187,7 +187,7 @@ export default function HomePage() {
               name: "Brand Identity & Website",
               price: "35K+",
               imageSrc:
-                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/brand-identity-showcase-displaying-logo--1773218773010-932be72c.png",
+                "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/brand-identity-showcase-displaying-logo--1773218773010-932be72c.png?_wi=1",
               imageAlt: "Brand Website",
             },
           ]}
