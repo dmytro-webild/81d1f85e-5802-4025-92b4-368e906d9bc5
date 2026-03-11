@@ -48,7 +48,7 @@ export default function AboutPage() {
           description="Founded in 2018"
           subdescription="Trusted by 200+ Global Brands"
           icon={Zap}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/vibrant-digital-agency-team-culture-phot-1773218772539-6c717fa4.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AnBq6D5n9QzXjqBBaYaprIICzP/vibrant-digital-agency-team-culture-phot-1773218772539-6c717fa4.png?_wi=2"
           imageAlt="Vibrant digital agency team culture photo showing employees celebrating success, brainstorming toget"
           mediaAnimation="blur-reveal"
           useInvertedBackground={true}
